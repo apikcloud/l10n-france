@@ -1,0 +1,20 @@
+[project]
+name = "odoo-addons-oca-l10n-france"
+version = "18.0.20250102.1"
+dependencies = [
+    "odoo-addon-l10n_fr_account_tax_unece==18.0.*",
+    "odoo-addon-l10n_fr_cog==18.0.*",
+    "odoo-addon-l10n_fr_das2==18.0.*",
+    "odoo-addon-l10n_fr_department==18.0.*",
+    "odoo-addon-l10n_fr_department_oversea==18.0.*",
+    "odoo-addon-l10n_fr_hr_check_ssnid==18.0.*",
+    "odoo-addon-l10n_fr_pos_caisse_ap_ip==18.0.*",
+    "odoo-addon-l10n_fr_siret==18.0.*",
+    "odoo-addon-l10n_fr_siret_account==18.0.*",
+    "odoo-addon-l10n_fr_state==18.0.*",
+]
+classifiers=[
+    "Programming Language :: Python",
+    "Framework :: Odoo",
+    "Framework :: Odoo :: 18.0",
+]
